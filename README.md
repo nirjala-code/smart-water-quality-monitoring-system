@@ -42,11 +42,10 @@ The results are displayed on a **16x2 I2C LCD** and also printed on the Serial M
 6. View results on LCD and Serial Monitor.  
 
 ---
+##add image
+![Smart Water Quality Monitoring System](https://raw.githubusercontent.com/your-username/nijala-code/main/REAL%20PROJECT%20PHOTO.jpg)
 
-## 🔧 Circuit Diagram
-(Add your circuit diagram/photo here)  
-```markdown
-![Circuit Diagram](REAL PROJECT PHOTO.jpg)
+
 
 
 
