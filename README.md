@@ -23,7 +23,7 @@ The results are displayed on a **16x2 I2C LCD** and also printed on the Serial M
 ---
 
 ## 📂 Project Files
-- `WaterQuality.ino` → Main Arduino code  
+- `1waterQuality.ino` → Main Arduino code  
 - `images/` → Circuit diagrams & real project photos (optional)  
 - `README.md` → Project documentation  
 
@@ -36,7 +36,7 @@ The results are displayed on a **16x2 I2C LCD** and also printed on the Serial M
    - **pH Sensor** → Pin 34 (Analog)  
    - **TDS Sensor** → Pin 35 (Analog)  
    - **I2C LCD** → SDA & SCL pins of ESP32  
-3. Open `WaterQuality.ino` in Arduino IDE.  
+3. Open `1waterQuality.ino` in Arduino IDE.  
 4. Select **ESP32 Dev Module** from Tools → Board.  
 5. Upload the code to ESP32.  
 6. View results on LCD and Serial Monitor.  
@@ -47,3 +47,4 @@ The results are displayed on a **16x2 I2C LCD** and also printed on the Serial M
 (Add your circuit diagram/photo here)  
 ```markdown
 ![Circuit Diagram](images/circuit.png)
+
