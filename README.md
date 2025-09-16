@@ -46,7 +46,8 @@ The results are displayed on a **16x2 I2C LCD** and also printed on the Serial M
 ## 🔧 Circuit Diagram
 (Add your circuit diagram/photo here)  
 ```markdown
-![Circuit Diagram](REAL PROJECT PHOTOS.jpg)
+![Circuit Diagram](REAL PROJECT PHOTO.jpg)
+
 
 
 
